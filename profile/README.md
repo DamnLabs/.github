@@ -1,3 +1,11 @@
+<div align="center">
+  <br />
+  <p>
+    <a href="https://github.com/voxhash"><img src="https://raw.githubusercontent.com/voxhash/.github/main/assets/logo.png" width="800" alt="voxhash" /></a>
+  </p>
+</div>
+> Logo by @glitchkill on telegram
+
 ## About
 
 Hello! :wave:
