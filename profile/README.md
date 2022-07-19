@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/voxhash"><img src="https://raw.githubusercontent.com/voxhash/.github/main/assets/logo.png" width="800" alt="voxhash" /></a>
+    <a href="https://github.com/voxhash"><img src="https://raw.githubusercontent.com/voxhash/.github/main/assets/banner.png" width="800" alt="voxhash" /></a>
   </p>
 </div>
 
@@ -29,4 +29,3 @@ In order to become a VoxHash volunteer, you must go through our application proc
 - Being part of a passionate team of developers.
 - A cut of royalties to any VoxHash project you contribute to.
 
-> Logo by @glitchkill on telegram
