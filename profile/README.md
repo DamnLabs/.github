@@ -17,7 +17,7 @@ We have many projects and services you may find useful, have a look below!
 
 - [VoxSite](https://github.com/voxhash/voxsite) - VoxHash's main website for managing access tokens to our projects.
 - [VoxAPI](https://voxhash.net/voxapi) - VoxHash's spam detection web API service.
-- [ShadowProtect](https://voxhash.net/shadowprotect) - A Multi-platform spam protection application designed to combat unwanted messages on your platform
+- [Protect Series](https://voxhash.net/protect) - A Multi-platform spam protection solution designed to combat unwanted messages on your platform
 
 ## Contributing
 
