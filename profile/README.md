@@ -9,4 +9,4 @@
 
 Hello! :wave:
 
-DamnLabs, operating under 'Damn', is a small cloud provider company that provides a modular whitelable Discord bot serice.
+DamnLabs, operating under 'Damn', is a small cloud provider company that provides a modular White-label Discord bot service.
